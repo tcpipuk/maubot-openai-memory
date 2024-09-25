@@ -1,0 +1,10 @@
+maubot: 0.1.0
+id: uk.tcpip.openaimemory
+version: 0.0.1
+license: AGPL-3.0-or-later
+modules:
+    - openaimemory
+main_class: OpenAIMemory
+config: true
+extra_files:
+    - base-config.yaml
